@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Editando</string>
+    <string name="app_name">InfernalActivity</string>
     <string name="form_username">Nombre Completo</string>
     <string name="form_bday">Fecha de Nacimiento</string>
     <string name="form_phone">Teléfono</string>
@@ -13,6 +13,18 @@
     <string name="details_phone">Tel.</string>
     <string name="details_email">Email:</string>
     <string name="details_description">Descripción:</string>
+
+    <!-- names for putExtras Init -->
+
+    <string name="pName">name</string>
+    <string name="pBday">bday</string>
+    <string name="pPhone">phone</string>
+    <string name="pEmail">email</string>
+    <string name="pDescription">description</string>
+
+    <!-- names for putExtras End -->
+
+
     <string name="details_example1">José Ángel Peña Godínez</string>
     <string name="details_example2">12/12/1987</string>
     <string name="details_example3">55553333</string>
